@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Halo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="text_inside_circle_button_text_normal">hellow</string>
+    <string name="text_outside_circle_button_text_normal">helow</string>
+    <string name="text_ham_button_text_normal">hellow</string>
+    <string name="text_ham_button_sub_text_normal">hellow</string>
+    <string name="type_your_message">Type a message</string>
+    <string name="NoRecent">No recent</string>
+    <string name="title_activity_post2">Post</string>
+</resources>
